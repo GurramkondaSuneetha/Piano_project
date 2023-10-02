@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\r\n\ A\ piano\ that\ can\ be\ played\ with\ the\ computer\ keyboard.\r\n\ \r\n\ @author\:\ M.\ Kolling\r\n\ @version\:\ 0.1\r\n
+comment1.params=
+comment1.target=Piano()
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3
